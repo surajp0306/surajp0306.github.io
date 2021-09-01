@@ -1,0 +1,23 @@
+img{
+	width: 400px;
+	height: 300px;
+	margin: 10px;
+	transition: all 3s;
+}
+.SAD{
+	color: beige;
+	display: inline-flex;
+	flex-wrap: wrap;
+	flex-shrink: 4;
+	align-self: center;
+	justify-content: ;
+}
+
+img:hover{
+	transform: rotate3d(123, 120, 133, 360deg);
+}
+h1:hover {
+ 	text-orientation: sideways;
+ 	
+
+}
